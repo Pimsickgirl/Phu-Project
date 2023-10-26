@@ -1,0 +1,14 @@
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\obj\Debug\test.main.resources
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\bin\Debug\test.exe.config
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\bin\Debug\test.exe
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\bin\Debug\test.pdb
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\obj\Debug\test.exe
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\obj\Debug\test.pdb
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\obj\Debug\test.Form1.resources
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\obj\Debug\test.qrcodemain.resources
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\bin\Debug\QRCoder.dll
+C:\Users\FCTK\Desktop\Phu Project\Phu\test\test\obj\Debug\test.csproj.CopyComplete
